@@ -1,5 +1,7 @@
 # Domain Expert Model Fine-Tuning with Meta Llama 2 7B
 
+## This project was completed to fulfill the requirements of the Nanodegree course titled "Introducing Generative AI with AWS," offered by Udacity in collaboration with AWS
+
 ## Project Overview
 
 Welcome to the domain expert model fine-tuning project using the Meta Llama 2 7B foundation model. In this project, a specialized language model capable of generating contextually relevant text in healthcare/medical domain is created. 
