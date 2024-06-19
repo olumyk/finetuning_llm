@@ -1,6 +1,6 @@
 # Domain Expert Model Fine-Tuning with Meta Llama 2 7B
 
-## This project was completed to fulfill the requirements of the Nanodegree course titled "Introducing Generative AI with AWS," offered by Udacity in collaboration with AWS
+This project was completed to fulfill the requirements of the Nanodegree course titled "Introducing Generative AI with AWS," offered by Udacity in collaboration with AWS
 
 ## Project Overview
 
